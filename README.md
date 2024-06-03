@@ -14,7 +14,7 @@
 ### Languages and Tools:
 
 #### Programming Languages:
-![Languages](https://skillicons.dev/icons?i=c,cs,python)
+![Languages](https://skillicons.dev/icons?i=python,cs,c)
 
 #### Data Science and Machine Learning:
 ![DataScience](https://skillicons.dev/icons?i=opencv,pytorch,pandas)
@@ -26,7 +26,7 @@
 ![WebDev](https://skillicons.dev/icons?i=html,css,js,ts,vue)
 
 #### Testing:
-![Testing](https://skillicons.dev/icons?i=cypress,selenium)
+![Testing](https://skillicons.dev/icons?i=cypress,selenium,gherkin)
 
 #### Databases:
 ![Databases](https://skillicons.dev/icons?i=mysql)
