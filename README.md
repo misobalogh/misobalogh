@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michal</h1>
+<h1 align="center">Hello world, I'm Michal</h1>
 <h3 align="center">Lover of Coding and Continuous Learning | FIT VUT Brno Student</h3>
 
 - 🤖 I’m currently learning **OpenCV and ML**
