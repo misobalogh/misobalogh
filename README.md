@@ -1,4 +1,4 @@
-# Hi 👋, I'm Michal
+# Hello World, I'm Michal
 ### Lover of Coding and Continuous Learning | FIT VUT Brno Student
 
 - 🔭 Currently working part-time at [Micro-Epsilon Inspection](https://www.me-inspection.sk/company)
