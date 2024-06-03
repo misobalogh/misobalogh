@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Michal</h1>
-<h3 align="center">Lover of Coding and Continuous Learning | FIT VUT Brno Student</h3>
+<h1 align="left">Hi 👋, I'm Michal</h1>
+<h3 align="left">Lover of Coding and Continuous Learning | FIT VUT Brno Student</h3>
 
 - 🔭 Currently working part-time at [Micro-Epsilon Inspection](https://www.me-inspection.sk/company)
 
