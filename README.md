@@ -9,7 +9,7 @@
   - 📩 baloghmichal03@gmail.com
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=misobalogh&theme=nord)
+![GitHub 🔥](https://github-readme-streak-stats.herokuapp.com/?user=misobalogh&theme=nord)
 
 ### Languages and Tools:
 
