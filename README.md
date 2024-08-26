@@ -2,7 +2,7 @@
 ### Lover of Coding and Continuous Learning | FIT VUT Brno Student
 
 - 🔭 Currently working part-time at [Micro-Epsilon Inspection](https://www.me-inspection.sk/company)
-- 🤖 Learning **OpenCV and ML**
+- 🤖 Learning **Computer Vision and Deep Learning**
 
 ### Connect with me:
 
