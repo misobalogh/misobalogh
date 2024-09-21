@@ -11,6 +11,15 @@
 
 ![GitHub 🔥](https://github-readme-streak-stats.herokuapp.com/?user=misobalogh&theme=nord)
 
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Total%20Commits-1234-green?style=flat-square">
+		<img alt="Total Commits" src="https://img.shields.io/badge/Total%20Commits-1234-blue?style=flat-square">
+	</picture>
+</p>
+
+
+
 ### Languages and Tools:
 
 #### Programming Languages:
