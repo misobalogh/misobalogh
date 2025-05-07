@@ -1,9 +1,9 @@
 # 👋 Hello World, I'm Michal
 
-🎓 Computer Science student at [FIT VUT Brno](https://www.fit.vut.cz)
-- 💼 Part-time machine learning engineer at [Micro-Epsilon Inspection](https://www.me-inspection.sk/company)
-- 🔍 Interested in **Machine Learning**, **Computer Vision** and building cool things
-- 🌍 Open to research and collaboration opportunities
+🎓 Computer Science student at [FIT VUT Brno](https://www.fit.vut.cz)  
+💼 Part-time Machine Learning Engineer at [Micro-Epsilon Inspection](https://www.me-inspection.sk/company)  
+🔬 Passionate about **Machine Learning**, **Computer Vision**, and building meaningful tech  
+🚀 Actively seeking **junior-level roles** in software development and AI/ML
 
 ---
 
@@ -37,9 +37,8 @@
 
 ## 📬 Let's Connect
 
-📫 **Email**: [baloghmichal03@gmail.com](mailto:baloghmichal03@gmail.com)  
-💼 **LinkedIn**: 💼 **LinkedIn**: [linkedin.com/in/michal-balogh/](https://www.linkedin.com/in/michal-balogh/)
-
+[![Email](https://img.shields.io/badge/Email-baloghmichal03@gmail.com-blue?style=flat-square&logo=gmail)](mailto:baloghmichal03@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-michal--balogh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/michal-balogh/)
 
 ---
 
