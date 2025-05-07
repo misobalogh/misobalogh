@@ -1,8 +1,7 @@
 # 👋 Hello World, I'm Michal
 
 🎓 Computer Science student at [FIT VUT Brno](https://www.fit.vut.cz)
-
-- 💼 Machine learning engineer at [Micro-Epsilon Inspection](https://www.me-inspection.sk/company)
+- 💼 Part-time machine learning engineer at [Micro-Epsilon Inspection](https://www.me-inspection.sk/company)
 - 🔍 Interested in **Machine Learning**, **Computer Vision** and building cool things
 - 🌍 Open to research and collaboration opportunities
 
