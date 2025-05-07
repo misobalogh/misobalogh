@@ -31,7 +31,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub 🔥](https://github-readme-stats.vercel.app/api?username=misobalogh)
+![GitHub 🔥](https://github-readme-streak-stats.herokuapp.com/?user=misobalogh&theme=nord)
 
 ---
 
