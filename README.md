@@ -16,7 +16,7 @@
 ![OpenCV](https://skillicons.dev/icons?i=opencv) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Pandas](https://skillicons.dev/icons?i=pandas)
 
 ### 🛠️ Tools & Technologies
-![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Azure](https://skillicons.dev/icons?i=azure)
+![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![Windows](https://skillicons.dev/icons?i=windows) ![Bash](https://skillicons.dev/icons?i=bash) ![NeoVim](https://skillicons.dev/icons?i=neovim) ![VSCode](https://skillicons.dev/icons?i=vscode) 
 
 ### 🌐 Web Development
 ![Vue.js](https://skillicons.dev/icons?i=vue) ![Laravel](https://skillicons.dev/icons?i=laravel) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)
