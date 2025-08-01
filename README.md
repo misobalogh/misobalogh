@@ -1,45 +1,48 @@
-# 👋 Hello World, I'm Michal
+# 👋 Hi, I'm Michal Balogh
 
-🎓 Computer Science student at [FIT VUT Brno](https://www.fit.vut.cz)  
+🎓 M.Sc. student in Applied Informatics at [FEI STU Bratislava](https://www.fei.stuba.sk/)  
+🎓 B.Sc. in Computer Science from [FIT VUT Brno](https://www.fit.vut.cz)  
 💼 Part-time Machine Learning Engineer at [Micro-Epsilon Inspection](https://www.me-inspection.sk/company)  
-🔬 Passionate about **Machine Learning**, **Computer Vision**, and building meaningful tech  
-🚀 Actively seeking **junior-level roles** in software development and AI/ML
+🔬 Passionate about **Machine Learning**, **Computer Vision**, and embedded systems  
+🚀 Open to **junior-level opportunities** in ML, computer vision, embedded systems, or low-level/backend development
 
 ---
 
-## 🚀 Tech Stack
+## 🧰 Tech Stack
 
-### 👨‍💻 Programming Languages
-![Python](https://skillicons.dev/icons?i=python) ![C#](https://skillicons.dev/icons?i=cs) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![PHP](https://skillicons.dev/icons?i=php)
+### 🧑‍💻 Languages
+![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![JavaScript](https://skillicons.dev/icons?i=js) ![PHP](https://skillicons.dev/icons?i=php)
 
-### 📊 Data Science & Machine Learning
-![OpenCV](https://skillicons.dev/icons?i=opencv) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Pandas](https://skillicons.dev/icons?i=pandas)
+### 📊 Machine Learning & CV
+![PyTorch](https://skillicons.dev/icons?i=pytorch) ![OpenCV](https://skillicons.dev/icons?i=opencv) ![Pandas](https://skillicons.dev/icons?i=pandas)  
++ MediaPipe, NumPy, SciPy, Matplotlib
 
-### 🛠️ Tools & Technologies
-![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![Windows](https://skillicons.dev/icons?i=windows) ![Bash](https://skillicons.dev/icons?i=bash) ![NeoVim](https://skillicons.dev/icons?i=neovim) ![VSCode](https://skillicons.dev/icons?i=vscode) 
+### 🔧 Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Neovim](https://skillicons.dev/icons?i=neovim)
 
-### 🌐 Web Development
-![Vue.js](https://skillicons.dev/icons?i=vue) ![Laravel](https://skillicons.dev/icons?i=laravel) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)
+### 🌐 Web
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Vue.js](https://skillicons.dev/icons?i=vue) ![Laravel](https://skillicons.dev/icons?i=laravel)
 
-### 🧪 Testing & QA
-![Cypress](https://skillicons.dev/icons?i=cypress) ![Selenium](https://skillicons.dev/icons?i=selenium) ![Gherkin](https://skillicons.dev/icons?i=gherkin)
+### 🔍 Testing
+![Cypress](https://skillicons.dev/icons?i=cypress) ![Selenium](https://skillicons.dev/icons?i=selenium)
 
-### 🗄️ Databases
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub 🔥](https://github-readme-streak-stats.herokuapp.com/?user=misobalogh&theme=nord)
+### 🗃️ Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)  
++ SQL, SQLite
 
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misobalogh&theme=nord)
+
+---
+
+## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-baloghmichal03@gmail.com-blue?style=flat-square&logo=gmail)](mailto:baloghmichal03@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-michal--balogh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/michal-balogh/)
 
 ---
 
-_Thanks for visiting!_
+_Thanks for visiting — feel free to reach out!_
