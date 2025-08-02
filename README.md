@@ -4,7 +4,6 @@
 🎓 B.Sc. in Computer Science @ [FIT VUT Brno](https://www.fit.vut.cz)  
 💼 Part-Time Machine Learning Engineer @ [Micro-Epsilon Inspection](https://www.me-inspection.sk)  
 🧠 Passionate about Machine Learning, Computer Vision & Embedded Systems  
-🚀 Actively seeking junior roles in software development / AI / ML
 
 ---
 
