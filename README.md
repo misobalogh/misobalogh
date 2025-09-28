@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michal Balogh
 
-🎓 M.Sc. Applied Informatics student @ [STU Bratislava](https://www.fei.stuba.sk/)  
+🎓 M.Sc. Applied Informatics student @ [FEI STU Bratislava](https://www.fei.stuba.sk/)  
 🎓 B.Sc. in Computer Science @ [FIT VUT Brno](https://www.fit.vut.cz)  
 💼 Part-Time Machine Learning Engineer @ [Micro-Epsilon Inspection](https://www.me-inspection.sk)  
 🧠 Passionate about Machine Learning, Computer Vision & Embedded Systems  
