@@ -30,12 +30,6 @@
 
 ---
 
-## Quick links
-- Email: [baloghmichal03@gmail.com](mailto:baloghmichal03@gmail.com)
-- LinkedIn: https://linkedin.com/in/michal-balogh
-
----
-
 ## 📫 Reach Out
 
 [![Email](https://img.shields.io/badge/baloghmichal03@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:baloghmichal03@gmail.com)
