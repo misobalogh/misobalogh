@@ -33,8 +33,6 @@
 ## Quick links
 - Email: [baloghmichal03@gmail.com](mailto:baloghmichal03@gmail.com)
 - LinkedIn: https://linkedin.com/in/michal-balogh
-- CV (PDF): *link if you host it*
-- Live demo / portfolio: *link to GH Pages or deployed demo*
 
 ---
 
