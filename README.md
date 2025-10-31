@@ -2,9 +2,9 @@
 
 **Machine Learning & Computer Vision Engineer** • MLOps & Edge AI • Python / C++ / Rust
 
-📍 Bratislava, Slovakia
-💼 3+ years experience building ML systems for industrial visual inspection @ Micro-Epsilon Inspection
-🎓 M.Sc. Applied Informatics student - AI specialization @ [FEI STU Bratislava](https://www.fei.stuba.sk/)
+📍 Bratislava, Slovakia  
+💼 3+ years experience building ML systems for industrial visual inspection @ Micro-Epsilon Inspection  
+🎓 M.Sc. Applied Informatics student - AI specialization @ [FEI STU Bratislava](https://www.fei.stuba.sk/)  
 🎓 B.Sc. in Computer Science @ [FIT VUT Brno](https://www.fit.vut.cz)
 
 ---
