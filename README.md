@@ -24,8 +24,6 @@
 
 ## 📈 GitHub Insights
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/misobalogh?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=misobalogh&theme=transparent&show_icons=true&hide_border=true&layout=compact' />
 
 
