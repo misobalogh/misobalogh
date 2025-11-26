@@ -21,6 +21,8 @@
 
 ---
 
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=misobalogh&theme=transparent&show_icons=true&hide_border=true&layout=compact' />
+
 ## 📫 Reach Out
 
 [![Email](https://img.shields.io/badge/baloghmichal03@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:baloghmichal03@gmail.com)
