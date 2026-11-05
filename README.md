@@ -1,11 +1,12 @@
 # 👋 Hello World, I'm Michal Balogh
 
-**Machine Learning & Computer Vision Engineer** • MLOps & Edge AI • Python / C++ 
+**Machine Learning & Computer Vision Engineer**
 
-📍 Bratislava, Slovakia  
-💼 3+ years experience building ML systems for industrial visual inspection @ Micro-Epsilon Inspection  
+💼 Senior Data Scientist @ Slovak Telekom\
 🎓 M.Sc. Applied Informatics student - AI specialization @ [FEI STU Bratislava](https://www.fei.stuba.sk/)  
 🎓 B.Sc. in Computer Science @ [FIT VUT Brno](https://www.fit.vut.cz)
+
+📍 Bratislava, Slovakia  
 
 ---
 
